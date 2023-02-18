@@ -1,0 +1,6 @@
+.servicecard:hover{
+    background: linear-gradient(to right bottom, #39B54A, #39B54A90);
+}
+.servicecard:hover .child {
+    color: white;
+}
